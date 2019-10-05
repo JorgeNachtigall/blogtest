@@ -11,4 +11,6 @@ Now as an developer I've decided to start this projet on Unity and try to recrea
 
 This will be an life project. I have no hurry to finish, so everything will be done in my free time and with no rush.
 
+If you have any questions, suggestions or just want to share your thoughts you can use the comments section.
+
 That's it, let's see what it will become =)
