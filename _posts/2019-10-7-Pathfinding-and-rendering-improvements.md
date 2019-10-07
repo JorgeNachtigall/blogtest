@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day one
+title: Pathfinding and rendering improvements
 date: 2019-10-7 19:40:00
 ---
 
